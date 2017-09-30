@@ -61,7 +61,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'kirr.urls'
 ROOT_HOSTCONF = 'kirr.hosts'
 DEFAULT_HOST = 'www'
-DEFAULT_REDIRECT_URL = "http://www.tinyurls.herokuapp.com"
+DEFAULT_REDIRECT_URL = "https://www.tinyurls.herokuapp.com"
 PARENT_HOST = "tinyMe.co"
 
 TEMPLATES = [
